@@ -74,7 +74,7 @@ main{
     background-image: url('../assets/Frame1.png');
     
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: cover;
     
 }
@@ -83,7 +83,7 @@ main{
     text-transform: uppercase;
     color: white;
     padding: 100px 20px;
-    padding-top: 240px;
+    padding-top: 30%;
 }
 
 .textAndBtn h1{
